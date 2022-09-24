@@ -12,8 +12,8 @@ My goal was to make their work compatible with [jtkelm2's wildcard script for St
 
 ## Use
 
-- If you have followed the installation instructions you be able to select "Wildcards" in the Scripts sections of the txt2img and img2img tabs
-- To invoke a wildcard, you need to encapsulate the name of the \[wildcard\].txt you want to use in double underscores.
+- If you have followed the installation instructions you should be able to select "Wildcards" in the Scripts sections of the txt2img and img2img tabs
+- To invoke a wildcard, you need to encapsulate the name of the \[wildcard\].txt you want to use in double \_\_underscores\_\_
   - For example `__adj-beauty__ __gender__ with __hair__, __fantasy-setting__, by __artist__`
 
 ---
