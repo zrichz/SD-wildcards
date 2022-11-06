@@ -5,9 +5,9 @@ Compatible with [https://github.com/adieyal/sd-dynamic-prompting](https://github
 
 ## Installation
 
-- Download the [dynamic_prompting.py](https://github.com/adieyal/sd-dynamic-prompting/blob/main/dynamic_prompting.py) script (right-click on "raw", click save-as) and put it inside the scripts/ folder in your SD installation's root directory
+- Follow the instrucitons to install the [dynamic prompting extension](https://github.com/adieyal/sd-dynamic-prompts) by adieyal.
 - Download this repo by clicking the green 'code' button at the top and select download as zip
-- Place the wildcards folder in the scripts folder where you just placed dynamic_prompting.py
+- Place the wildcards folder in the `extensions/dynamic-prompts/wildcards` folder
 - If you have SD currently running you might have to restart it
 
 ## Use
