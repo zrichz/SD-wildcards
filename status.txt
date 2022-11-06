@@ -58,6 +58,7 @@ artist-botanical: 30 items
 skin-color: 26 items
 eyecolor: 26 items
 portrait-type: 25 items
+forest-type: 23 items
 punk: 20 items
 quantity: 18 items
 site: 17 items
